@@ -1,7 +1,5 @@
 # Predicting-IMDB-ratings
 
-
-# Part 1
 ## 1.1 Description
 The aim of the project is to create a model that predicts the rating of a movie based on general information about it. Data about the movies, such as title, year of production, genre, director, cast, description, duration, etc., will be used as features to predict the IMDB rating.
 
